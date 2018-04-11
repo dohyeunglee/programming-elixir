@@ -4,3 +4,16 @@
 erl_crash.dump
 *.ez
 *.beam
+
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+.vscode/*
+
+.DS_Store
+Thumbs.db
